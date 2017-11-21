@@ -5,3 +5,6 @@
 		p Fizz
 	elseif i%5 == 0 then
 		p Buzz
+	else
+		p i
+	end
